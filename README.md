@@ -13,3 +13,4 @@ spark-submit \
 CreateTestHBaseRecords-1.0-SNAPSHOT.jar \
 2000000 \ # number of records
 4 # threads
+=======
